@@ -12,3 +12,7 @@ performance counters.
 The implementaiton is described in details on my blog:
 
 http://keyvan.io/how-to-calculate-network-utilization-in-net
+
+NuGet package:
+
+http://nuget.org/packages/NetworkUtilization4DotNet
